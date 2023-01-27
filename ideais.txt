@@ -1,0 +1,6 @@
+- melhorar adicionando opção de excluir hábito, com isso o retorno da api deve considerar se o hábito não existe mais
+
+- ter uma opção de start/end para cronometrar o tempo de execução de um habito especifico
+- ter a opção de escolher a pontuação do habito a partir da duração praticada ou da quantidade de vezes praticada
+- ter opções de associações: habito de pular corda, verificar/setar média de calorias gastas por minuto e verificar qual foi o tempo de execução para calcular a quantidade de calorias gastas
+- ser um aplicativo open, para plugar novas tecnologias, exemplo: tecnologia que monitora através de vídeo ou algum sensor de movimento, a qtd de pulos e calcule a qtd de calorias gastas, dessa forma seria possível ter uma quantidade quase que exata. Semelhante ao que o app da nike e alguns relogios conseguem monitorar.
